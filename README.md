@@ -1,2 +1,1 @@
-# smart-utils
-Smart utilities
+# Smart utilities
